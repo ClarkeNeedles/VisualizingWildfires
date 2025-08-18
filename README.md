@@ -1,4 +1,4 @@
-![C++](https://img.shields.io/badge/Language-Python-green)
+![Python](https://img.shields.io/badge/Language-Python-green)
 
 # **Predicting and Visualizing Wildfires**
 
