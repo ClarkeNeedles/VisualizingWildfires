@@ -1,5 +1,4 @@
-![MIT License](https://img.shields.io/badge/License-MIT-brightgreen)
-![C++](https://img.shields.io/badge/Language-C++-blue)
+![C++](https://img.shields.io/badge/Language-Python-green)
 
 # **Predicting and Visualizing Wildfires**
 
